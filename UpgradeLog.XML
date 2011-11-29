@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Hosteta">
+</Property><Property Name="Solution File" Value="C:\Users\Julian\Documents\Visual Studio 2010\Projects\Hosteta\Hosteta.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Julian\Documents\Visual Studio 2010\Projects\Hosteta\Hosteta.suo">
+</Property><Property Name="Date" Value="lunes, 28 de noviembre de 2011">
+</Property><Property Name="Time" Value="20:41 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Hosteta.sln" Description="File successfully backed up as C:\Users\Julian\Documents\Visual Studio 2010\Projects\Hosteta\Backup\Hosteta.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Hosteta.suo" Description="File successfully backed up as C:\Users\Julian\Documents\Visual Studio 2010\Projects\Hosteta\Backup\Hosteta.suo">
+</Event><Event ErrorLevel="0" Project="Hosteta" Source="Hosteta\Hosteta.csproj" Description="Project file successfully backed up as C:\Users\Julian\Documents\Visual Studio 2010\Projects\Hosteta\Backup\Hosteta\Hosteta.csproj">
+</Event><Event ErrorLevel="0" Project="Hosteta" Source="Hosteta\Form1.cs" Description="File successfully backed up as C:\Users\Julian\Documents\Visual Studio 2010\Projects\Hosteta\Backup\Hosteta\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Hosteta" Source="Hosteta\Form1.Designer.cs" Description="File successfully backed up as C:\Users\Julian\Documents\Visual Studio 2010\Projects\Hosteta\Backup\Hosteta\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Hosteta" Source="Hosteta\Program.cs" Description="File successfully backed up as C:\Users\Julian\Documents\Visual Studio 2010\Projects\Hosteta\Backup\Hosteta\Program.cs">
+</Event><Event ErrorLevel="0" Project="Hosteta" Source="Hosteta\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Julian\Documents\Visual Studio 2010\Projects\Hosteta\Backup\Hosteta\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Hosteta" Source="Hosteta\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Julian\Documents\Visual Studio 2010\Projects\Hosteta\Backup\Hosteta\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Hosteta" Source="Hosteta\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Julian\Documents\Visual Studio 2010\Projects\Hosteta\Backup\Hosteta\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Hosteta" Source="Hosteta\app.config" Description="File successfully backed up as C:\Users\Julian\Documents\Visual Studio 2010\Projects\Hosteta\Backup\Hosteta\app.config">
+</Event><Event ErrorLevel="0" Project="Hosteta" Source="Hosteta\Properties\Settings.settings" Description="File successfully backed up as C:\Users\Julian\Documents\Visual Studio 2010\Projects\Hosteta\Backup\Hosteta\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Hosteta" Source="Hosteta\Form1.resx" Description="File successfully backed up as C:\Users\Julian\Documents\Visual Studio 2010\Projects\Hosteta\Backup\Hosteta\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Hosteta" Source="Hosteta\Properties\Resources.resx" Description="File successfully backed up as C:\Users\Julian\Documents\Visual Studio 2010\Projects\Hosteta\Backup\Hosteta\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="Hosteta" Source="Hosteta\Hosteta.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="Hosteta" Source="Hosteta\Hosteta.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Hosteta" Source="Hosteta\Hosteta.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Instalador.vdproj" Source="Instalador\Instalador.vdproj" Description="Project file successfully backed up as C:\Users\Julian\Documents\Visual Studio 2010\Projects\Hosteta\Backup\Instalador\Instalador.vdproj">
+</Event><Event ErrorLevel="0" Project="WebServer" Source="WebServer\WebServer.csproj" Description="Project file successfully backed up as C:\Users\Julian\Documents\Visual Studio 2010\Projects\Hosteta\Backup\WebServer\WebServer.csproj">
+</Event><Event ErrorLevel="0" Project="WebServer" Source="WebServer\AspHostTest.cs" Description="File successfully backed up as C:\Users\Julian\Documents\Visual Studio 2010\Projects\Hosteta\Backup\WebServer\AspHostTest.cs">
+</Event><Event ErrorLevel="0" Project="WebServer" Source="WebServer\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Julian\Documents\Visual Studio 2010\Projects\Hosteta\Backup\WebServer\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="1" Project="WebServer" Source="WebServer\WebServer.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="WebServer" Source="WebServer\WebServer.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WebServer" Source="WebServer\WebServer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Hosteta.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Hosteta.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Hosteta" Source="Hosteta\app.config" Description="File converted successfully. All &lt;supportedRuntime&gt; and &lt;requiredRuntime&gt; tags were removed to enable the project to build and run with Visual Studio 2005.">
+</Event><Event ErrorLevel="3" Project="Hosteta" Source="Hosteta\app.config" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WebServer" Source="WebServer\WebServer.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

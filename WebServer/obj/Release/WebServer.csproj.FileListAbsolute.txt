@@ -1,0 +1,5 @@
+C:\Visual Studio 2005\Projects\Hosteta\WebServer\bin\Release\WebServer.dll
+C:\Visual Studio 2005\Projects\Hosteta\WebServer\bin\Release\WebServer.pdb
+C:\Visual Studio 2005\Projects\Hosteta\WebServer\obj\Release\ResolveAssemblyReference.cache
+C:\Visual Studio 2005\Projects\Hosteta\WebServer\obj\Release\WebServer.dll
+C:\Visual Studio 2005\Projects\Hosteta\WebServer\obj\Release\WebServer.pdb

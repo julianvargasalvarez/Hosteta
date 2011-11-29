@@ -1,0 +1,8 @@
+C:\Visual Studio 2005\Projects\Hosteta\Hosteta\obj\Debug\ResolveAssemblyReference.cache
+C:\Visual Studio 2005\Projects\Hosteta\Hosteta\obj\Debug\Hosteta.Form1.resources
+C:\Visual Studio 2005\Projects\Hosteta\Hosteta\obj\Debug\Hosteta.Properties.Resources.resources
+C:\Visual Studio 2005\Projects\Hosteta\Hosteta\obj\Debug\Hosteta.csproj.GenerateResource.Cache
+C:\Visual Studio 2005\Projects\Hosteta\Hosteta\bin\Debug\Hosteta.exe
+C:\Visual Studio 2005\Projects\Hosteta\Hosteta\bin\Debug\Hosteta.pdb
+C:\Visual Studio 2005\Projects\Hosteta\Hosteta\obj\Debug\Hosteta.exe
+C:\Visual Studio 2005\Projects\Hosteta\Hosteta\obj\Debug\Hosteta.pdb

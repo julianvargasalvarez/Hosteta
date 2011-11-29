@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Hosteta.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PortNumber" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">8081</Value>
+    </Setting>
+    <Setting Name="AppPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\\Visual Studio 2005\\Projects\\Hosteta\\PrecompiledWeb\\elWeb</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
